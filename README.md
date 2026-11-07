@@ -1,4 +1,4 @@
-Food Express
+# Food Express
 Esse projeto foi originalmente desenvolvido por Daniel Ohata (https://github.com/dr-ohata/foodexpress). Utilizado na disciplina de UX e Testes de Software.git commit -m "docs: atualiza README com a documentação completa da atividade"
 
 # Testes Caixa Cinza em API de Autenticação (Supabase + Postman)
