@@ -1,7 +1,10 @@
+Food Express
+Esse projeto foi originalmente desenvolvido por Daniel Ohata (https://github.com/dr-ohata/foodexpress). Utilizado na disciplina de UX e Testes de Software.git commit -m "docs: atualiza README com a documentação completa da atividade"
+
 # Testes Caixa Cinza em API de Autenticação (Supabase + Postman)
 
 **Aluno:** Kaike Figueiredo — GitHub: [Kaike-figueiredo9](https://github.com/Kaike-figueiredo9)
-**Instituição:** Facens
+**Instituição:** UniFacens
 
 ---
 
@@ -241,7 +244,6 @@ Foram executados os 5 cenários obrigatórios, todos com a mesma requisição (`
 
 - No início, a requisição tinha só os headers `apikey` e `Content-Type`; faltava o **`Authorization`** exigido pela atividade, que foi adicionado depois.
 - A variável do environment estava com o nome `senha`, enquanto a atividade pede `password`. Mantive `senha` e documentei a equivalência.
-- Os prints foram salvos com **extensão duplicada** (`.png.png`) e precisaram ser renomeados por comando no PowerShell.
 - Alguns prints exibiam dados sensíveis (senha no painel de variáveis, `refresh_token` e chave completa), então foi preciso cobrir esses trechos antes de publicar.
 - Foi necessário organizar o projeto base no VS Code, criando as pastas `postman`, `prints` e `planilha` e cuidando para não subir o `.env`.
 
